@@ -15,5 +15,14 @@
         "psr-4": {
             "Geckob\\RouteList\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Foo\\Bar\\ServiceProvider",
+                "Geckob\\RouteList\\Provider\RouteListServiceProvider"
+
+            ]
+        }
     }
 }
