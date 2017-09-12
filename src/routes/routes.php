@@ -1,4 +1,4 @@
 <?php
 
 
-Route::get('/routes', '\RouteList\Controller\RouteController@listView');
+Route::get('/routes', 'Geckob\RouteList\Controller\RouteController@listView');

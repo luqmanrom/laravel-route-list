@@ -1,6 +1,6 @@
 <?php
 
-namespace RouteList\Provider;
+namespace Geckob\RouteList\Provider;
 
 use Illuminate\Support\ServiceProvider;
 

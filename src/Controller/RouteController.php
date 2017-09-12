@@ -1,6 +1,6 @@
 <?php
 
-namespace RouteList\Controller;
+namespace Geckob\RouteList\Controller;
 
 
 
